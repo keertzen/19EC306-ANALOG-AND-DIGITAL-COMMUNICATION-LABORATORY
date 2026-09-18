@@ -24,15 +24,19 @@ b)	Modulation index equal to 1
 c)	Modulation index greater than 1
  
 # BLOCK DIAGRAM:
-<img width="486" height="575" alt="image" src="https://github.com/user-attachments/assets/2b01abc1-031a-45d6-8dc1-f860bd4688e6" />
+<img width="776" height="472" alt="image" src="https://github.com/user-attachments/assets/55975fd8-ac34-4732-be24-ccbac7452b8f" />
+
 
 # MODEL GRAPH:
-<img width="958" height="1345" alt="image" src="https://github.com/user-attachments/assets/37a4344a-d392-418f-84ea-671ac6cf7138" />
+<img width="613" height="861" alt="image" src="https://github.com/user-attachments/assets/13b8d6bf-5eb1-4ece-a004-3bfe8a5c5998" />
+
 
 # GRAPH:
 
+<img width="1169" height="1600" alt="image" src="https://github.com/user-attachments/assets/7f35d6f4-6c11-4109-b401-9696c4c81576" />
 
 # TABULATION:
+<img width="1600" height="1059" alt="image" src="https://github.com/user-attachments/assets/4956cdd3-1ecd-45ed-bfe1-31a16b81ded0" />
 
 
 # RESULT:
